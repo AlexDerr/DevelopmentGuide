@@ -2,13 +2,13 @@
 
 ## General
 
-`ctrl + r` - Search previous commands
-`ctrl + a` - Move cursor to front of command
+- `ctrl + r` Search previous commands
+- `ctrl + a` Move cursor to front of command
 
 ## SSH
 
-`ssh -L <local-port>:<remote-port> remote.machine` - SSH remote.machine with port forwarding
-`ssh -L 3000:localhost:3000 mymachine.domain.etc` - Example forwarding 
+- `ssh -L <local-port>:<remote-port> remote.machine` SSH remote.machine with port forwarding
+  - `ssh -L 3000:localhost:3000 mymachine.domain.etc` 
 
 ### SSH Config
 
