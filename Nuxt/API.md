@@ -1,5 +1,7 @@
 # Nuxt API Interaction
 
+Example in MLTE: https://github.com/mlte-team/mlte/blob/master/mlte/frontend/nuxt-app/composables/api.ts
+
 ```typescript
 /**
  * Generic $fetch function for HTTP requests to API.
