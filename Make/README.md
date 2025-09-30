@@ -1,10 +1,8 @@
 # Makefile
 
-## General
+Used for automationm of common tasks at a project level
 
 Documentation: https://www.gnu.org/software/make/manual/make.html
-
-Used for automationm of common tasks
 
 ## Examples
 Example in MLTE: https://github.com/mlte-team/mlte/blob/master/Makefile

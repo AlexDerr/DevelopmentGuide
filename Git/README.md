@@ -1,7 +1,5 @@
 # Git
 
-## General
-
 - `git commit --amend` Add to previous commit, requires force push
 - `git pull --rebase origin master` Rebase on upstream master, requires force push
 

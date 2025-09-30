@@ -1,7 +1,5 @@
 # Bash
 
-## General
-
 - `ctrl + r` Search previous commands
 - `ctrl + a` Move cursor to front of command
 

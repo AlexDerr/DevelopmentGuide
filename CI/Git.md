@@ -1,7 +1,5 @@
 # Git CI
 
-## General
-
 Documentation: https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax
 
 Steps to include:
