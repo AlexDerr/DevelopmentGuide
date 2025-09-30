@@ -1,5 +1,7 @@
 # Makefile
 
+## General
+
 Documentation: https://www.gnu.org/software/make/manual/make.html
 
 Used for automationm of common tasks
