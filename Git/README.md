@@ -2,7 +2,8 @@
 
 ## General
 
-`git pull --rebase origin master` - Rebase on upstream master
+`git commit --amend` - Add to previous commit, requires force push
+`git pull --rebase origin master` - Rebase on upstream master, requires force push
 
 ## New Machine Setup
 
